@@ -1,0 +1,12 @@
+Homebrew: 
+brew.sh
+Kegworks:
+https://github.com/Kegworks-App/Kegworks 
+Kegworks Install commands:
+brew upgrade
+brew install --cask --no-quarantine Kegworks-App/kegworks/kegworks
+ 
+Wine Engine:
+WS11Wine10.0_1
+
+sauce: https://www.youtube.com/watch?v=1WxnSvWDMF8
