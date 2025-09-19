@@ -1,0 +1,6 @@
+-forcesteamupdate -forcepackagedownload -overridepackageurl
+
+-noverifyfiles -nobootstrapupdate -skipinitialbootstrap -norepairfiles -overridepackageurl
+
+
+Source: https://github.com/Whisky-App/Whisky/issues/1336
